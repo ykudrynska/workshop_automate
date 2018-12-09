@@ -15,8 +15,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ykudrynska/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="6" selection-end-column="5" />
+            <state relative-caret-position="90">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
               <folding>
                 <element signature="e#89#90#0" expanded="true" />
                 <element signature="e#130#131#0" expanded="true" />
@@ -28,10 +28,26 @@
       <file leaf-file-name="Task1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/ykudrynska/Task1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="60" />
+            <state relative-caret-position="345">
+              <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.class" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/out/production/workshop_automate/com/ykudrynska/Main.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#266#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -51,9 +67,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/ykudrynska/Lecture1Task1.java" />
         <option value="$PROJECT_DIR$/src/com/ykudrynska/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/ykudrynska/Task1.java" />
         <option value="$PROJECT_DIR$/src/com/ykudrynska/Task2.java" />
         <option value="$PROJECT_DIR$/src/com/ykudrynska/Task3.java" />
+        <option value="$PROJECT_DIR$/src/com/ykudrynska/Task1.java" />
       </list>
     </option>
   </component>
@@ -74,6 +90,41 @@
             <path>
               <item name="workshop_automate" type="b2602c69:ProjectViewProjectNode" />
               <item name="workshop_automate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workshop_automate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workshop_automate" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workshop_automate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workshop_automate" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workshop_automate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workshop_automate" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="workshop_automate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workshop_automate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workshop_automate" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="workshop_automate" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workshop_automate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workshop_automate" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="workshop_automate" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ykudrynska" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="workshop_automate" type="b2602c69:ProjectViewProjectNode" />
@@ -111,7 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Task3">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.ykudrynska.Main" />
       <module name="workshop_automate" />
@@ -172,10 +223,10 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -204,12 +255,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32878152" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32878152" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.44537815" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.44537815" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26251528" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26251528" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -282,10 +333,22 @@
     <entry file="file://$PROJECT_DIR$/out/production/workshop_automate/com/ykudrynska/Task3.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/workshop_automate/com/ykudrynska/Main.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#266#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ykudrynska/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="6" selection-end-column="5" />
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
           <folding>
             <element signature="e#89#90#0" expanded="true" />
             <element signature="e#130#131#0" expanded="true" />
@@ -295,8 +358,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ykudrynska/Task1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="60" />
+        <state relative-caret-position="345">
+          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
         </state>
       </provider>
     </entry>

@@ -1,14 +1,12 @@
 package com.ykudrynska;
 
+import java.util.Arrays;
+import java.util.Scanner;
 
 // 1. Создать массив на 20 чисел.
 // 2. Ввести в него значения с клавиатуры.
 // 3. Создать два массива с четными и нечетными числами.
 // 4. Вывести оба массива на экран, каждое значение выводить с новой строки.
-
-
-import java.util.Arrays;
-import java.util.Scanner;
 
 public class Task3 {
     private static Scanner scanner = new Scanner(System.in);

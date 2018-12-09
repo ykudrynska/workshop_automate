@@ -22,8 +22,6 @@ public class Task2 {
             int temp = array[i];
             array[i] = array[maxIndex - i];
             array[maxIndex - i] = temp;
-
         }
-
     }
 }
